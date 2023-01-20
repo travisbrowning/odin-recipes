@@ -1,0 +1,23 @@
+body {text-align: center; 
+    background-color: #9CB3D1;
+    color: #343A43;
+    
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1, h3, h4 {text-decoration-line: underline;
+}
+
+div.list {text-align: center;
+}
+
+ul.link, .ingredients {display: inline-block;
+text-align: left;
+}
+
+ol.steps {display: inline-block;
+text-align: left
+}
+
+img.rounded {border-radius: 30px;
+}

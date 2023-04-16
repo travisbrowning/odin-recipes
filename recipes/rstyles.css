@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background-color: #7F867B;
+    color: #43474D;
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol,
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+h1 {
+    font-size: clamp(1rem, 12vw, 6rem);
+    margin-bottom: 10px;
+    
+}
+
+img {
+    border-radius: 15px;
+
+}
+
+h2 {
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px #5c5c56;
+}

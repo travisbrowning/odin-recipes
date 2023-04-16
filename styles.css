@@ -1,0 +1,27 @@
+body {
+    background-color: #7F867B;
+}
+
+.title {
+    color: #C7C7BB;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12rem;
+}
+
+.list {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.item {
+    width: 250px;
+    height: auto;
+    border-radius: 15px;
+    
+}
+
+.item:hover {
+    opacity: .6;
+    transition: all .55ms ease-in;
+}
